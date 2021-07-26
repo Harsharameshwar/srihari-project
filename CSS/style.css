@@ -7,7 +7,7 @@ div {
 }
 .sign-in{
     position: relative;
-    left:500px;
+    left:50%auto;
  }
  .email-phone{
    margin-right: 0px;
