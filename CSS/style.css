@@ -126,6 +126,7 @@ hr {
 }
 .image{
     position:relative;
+    left:50%;
   margin-left: 675px;
 }
 body {
