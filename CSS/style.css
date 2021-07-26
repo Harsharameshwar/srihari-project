@@ -125,6 +125,8 @@ hr {
   width: 40px;
 }
 .image{
+  positon:relative;
+  left:35%;
   margin-left: 675px;
 }
 body {
